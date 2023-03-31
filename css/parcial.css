@@ -1,0 +1,46 @@
+.ContenedorACME{
+    display: flex;
+    
+}
+.divIzquierdo{
+    width: 20%;
+    
+}
+.ContenedorPadre{
+    display: flex;
+}
+.divDerecho{
+    width: 50%;
+    
+}
+#a{
+    text-decoration: none;
+    color: #a9aaaa;
+}
+.menu{
+    margin:10px 10px 10px 10px
+    
+
+    
+}
+.RESOURCES{
+    width: 30%;
+
+}
+.ContenedorRecursos{
+    display: flex;
+}
+.divDerechoHijo{
+    width: 40%;
+    
+}
+.divIzquierdoSolucion{
+    display: flex;
+}
+.textoIzquierdo{
+    padding-left: 20px;
+    margin-top: -20px;
+}
+.divIzquierdoHijo{
+    width: 60%;
+}
